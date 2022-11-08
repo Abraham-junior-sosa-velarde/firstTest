@@ -1,7 +1,7 @@
-import logo from "./logo.svg";
 import "./App.css";
 import "antd/dist/antd.css";
 import IndexPage from "./pages";
+
 function App() {
   return <IndexPage />;
 }
